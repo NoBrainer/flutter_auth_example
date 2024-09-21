@@ -34,7 +34,7 @@ class PresentationLayer extends StatelessWidget {
       ),
     );
 
-    //// Switch above with this after configuring Firebase
+    //// TODO: Switch above with this after configuring Firebase
     // return AuthGate(
     //   // Keep this MaterialApp consistent with SimpleAppWrapper
     //   child: MaterialApp.router(
