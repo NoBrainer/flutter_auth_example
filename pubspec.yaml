@@ -35,6 +35,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  # Automatically overrides `==` and `hashCode` based on `props`
+  equatable: ^2.0.5
+
   # Separate presentation and business logic/data retrieval
   # See: https://bloclibrary.dev/#/architecture
   bloc: ^8.1.4
